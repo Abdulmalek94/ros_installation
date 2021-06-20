@@ -1,0 +1,17 @@
+Here Im goint to recite My experince on installing ROS on Ubuntu mate 18.
+04.
+
+1-I installed virtual machine app to open another OS inside my current Windows 10 OS.
+
+2-Then I installed Ubuntu in the VM.
+
+3- Then I followed this page to prepare ROS 
+http://wiki.ros.org/ROS/Installation
+
+4- Then created ROS workspace to istalled the packages inside it by following this 
+page http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
+
+5- then went to smart methods github page to arduino_robot_arm repsoitory read the README.md file.
+
+6- Finally implemeted the required dependencies and run the "roslaunch moveit_pkg demo.launch" command 
+but the gazebo for some reason didn't work for me i get black screen.
